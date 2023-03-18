@@ -3,3 +3,6 @@ An implemetation of Transformer from stratch in Keras to translate English to Hi
 
 # Corpus
 https://www.cfilt.iitb.ac.in/iitb_parallel/
+
+# Reference
+https://www.tensorflow.org/text/tutorials/transformer
